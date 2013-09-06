@@ -7,3 +7,4 @@
 * Modbus RTU Read Client over Serial Port 
 * Source code in Tar: https://github.com/pal100/PyModbus/tarball/master 
 * Source code in Zip: https://github.com/pal100/PyModbus/zipball/master
+* http://cedarlab.ru/eng/software.html
